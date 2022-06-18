@@ -1,0 +1,24 @@
+import java.util.*;
+
+public class Count {
+	public static void main(String[] args) {
+		int[] mLengths = {31,28,31,30,31,30,31,31,30,31,30,31};
+		int sum = 0;
+		
+		Scanner _m = new Scanner(System.in);
+		System.out.print("Input m: ");
+		int m = _m.nextInt();
+		
+		Scanner _d = new Scanner(System.in);
+		System.out.print("Input d: ");
+		int d = _d.nextInt();
+		
+		for(int i = 0; i < m; i++) {
+			sum += mLengths[i];
+		}
+		
+		sum+=d;
+		
+		System.out.println(sum);
+	}
+}

@@ -1,0 +1,19 @@
+import java.util.*;
+import java.util.concurrent.TimeUnit;
+
+public class Count {
+	public static void main(String[] args) {
+		int[] mLengths = {31,28,31,30,31,30,31,31,30,31,30,31};
+		int sum = 0;
+		
+		Scanner _m = new Scanner(System.in);
+		System.out.print("Input m: ");
+		int m = _m.nextInt();
+		
+		Scanner _d = new Scanner(System.in);
+		System.out.print("Input d: ");
+		int d = _d.nextInt();
+		
+		System.out.println(TimeUnit.MILLISECONDS.toDays((long)new Date(2022, m, d).getTime()-new Date(2022,0,0).getTime()));
+	}
+}

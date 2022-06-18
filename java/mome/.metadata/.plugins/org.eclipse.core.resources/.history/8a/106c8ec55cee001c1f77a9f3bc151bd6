@@ -1,0 +1,21 @@
+import java.util.*;
+
+public class WordTriangle {
+
+	public static void main(String[] args) {
+		Scanner kb = new Scanner(System.in);
+		System.out.print("Please enter a word: ");
+		String word = kb.next();
+		kb.close();
+		
+		int n = word.length();
+		for(int r = 0; r < n; r++) {
+			for(int c = 0; c < n-1-r; c++) {
+				System.out.print(" ");
+			}
+			System.out.print(word.atChar(r));
+			
+			System.out.println();
+		}
+	}
+}

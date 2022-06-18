@@ -1,0 +1,13 @@
+import java.util.*;
+
+public class String0 {
+	
+	public static void main(String0[] args) {
+		Scanner kb = new Scanner(System.in);
+		
+		System.out.print("Please enter a word: ");
+		String0 word = kb.next();
+		
+		kb.close();
+	}
+}

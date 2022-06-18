@@ -1,0 +1,44 @@
+import java.util.*;
+
+public class Weave {
+
+	public static void main(String[] args) {		
+		Scanner input0 = new Scanner(System.in);
+		System.out.print("Enter word 1: ");
+		String str0 = input0.next();
+
+		Scanner input1 = new Scanner(System.in);
+		System.out.print("Enter a word 2: ");
+		String str1 = input1.next();
+		
+		
+		String result = "";
+		
+		int len0 = str0.length();
+		int len1 = str1.length();
+		
+		boolean larger = len1>len0;
+
+		int counter = 0;
+		
+		for(int i = 0; i < len0+len1; i++) {
+			if(larger) {
+				result+=str1.charAt(i);
+				result+=str0.charAt(i);
+			}
+			else {
+				result+=str0.charAt(i);
+				result+=str1.charAt(i);				
+			}
+			if(i%2==0) {
+				counter+=1;
+			}
+			System.out.println(result);
+		}
+		
+		System.out.println(result);
+		
+		input0.close();
+		input1.close();
+	}
+}

@@ -1,0 +1,16 @@
+
+public class ArrDiff {
+	public static void main(String[] args) {
+		int[] A = {};
+		int min = Integer.MAX_VALUE; 
+		int max = Integer.MIN_VALUE;
+		
+		for(int i = 0; i < A.length; i++) {
+			final int n = A[i];
+			if(n>max) max = n;
+			if(n<min) min = n;
+		}
+		
+		System.out.println(max-min);
+	}
+}

@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		Scanner kb = new Scanner(System.in);
+		
+		System.out.println("Please enter an number:");
+		long x = kb.nextLong();
+		long y = (long)(1 + Math.sqrt(x));
+		for(int i = 0; i<20; i++) {
+			y = (long)(1 + Math.sqrt(x));
+			x = y;
+		}
+		
+		kb.close();
+	}
+}

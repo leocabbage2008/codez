@@ -1,0 +1,11 @@
+import java.util.*;
+
+public class String {
+	
+	public static void main(String[] args) {
+		Scanner kb = new Scanner(System.in);
+		String word = kb.next();
+		System.out.println(word.toString().substring(0,3));
+		kb.close();
+	}
+}
