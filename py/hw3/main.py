@@ -7,7 +7,7 @@ systolic_bloodpressure = [152, 148, 131, 138, 115, 120, 124, 161, 135, 144]
 gender = [0, 1, 1, 0, 0, 1, 1, 0, 1, 0]
 colormap = np.array(["blue", "pink"])
 
-slope, intercept, r, p, stederr = stat.linregress(dosage, systolic_bloodpressure)
+slope, intercept, r, p, stderr = stat.linregress(dosage, systolic_bloodpressure)
 
 f = lambda x: slope * x + intercept
 

@@ -39,7 +39,7 @@ public class Rps {
 				hwin++;
 			}
 			
-			System.out.println("Computer: " + cwin + "\t"+"You: " + hwin);;
+			System.out.println("Computer: " + cwin + "\t You: " + hwin);;
 			roundsPlayed++;
 		} while(!(cwin==rounds || hwin==rounds));
 		
