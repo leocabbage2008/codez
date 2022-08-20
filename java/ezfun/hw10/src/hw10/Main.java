@@ -22,7 +22,7 @@ public class Main extends Canvas{
 		int max = Integer.MIN_VALUE;
 		ArrayList<Integer> list = new ArrayList(100);
 		ArrayList<Integer> revList = new ArrayList(100);
-		for(int i = 0; i < 99; i++) {
+		for(int i = 0; i < 100; i++) {
 			list.add(randInt(-1000,1000));
 		}
 		for(int i = 0; i < 99; i++) {
@@ -35,8 +35,13 @@ public class Main extends Canvas{
 				min=list.get(i);
 			}
 		}
-			System.out.println(list.toArray().length);
-//		System.out.println(list);
+		for(int i = 99; 0<i; i--) {
+			revList.add(list.get(i));
+		}
+		System.out.println(min);
+		System.out.println(max);
+		System.out.println(list);
+		System.out.println(revList);
 	
 	}
 	public static int randInt(int min, int max) {

@@ -103,8 +103,8 @@
               <children xsi:type="basic:PartSashContainer" xmi:id="_ajTvS-s5Eeyt_6cL2qJA5g" containerData="7500" selectedElement="_CMccoOs6Eeyt_6cL2qJA5g" horizontal="true">
                 <children xsi:type="basic:PartSashContainer" xmi:id="_CMccoOs6Eeyt_6cL2qJA5g" containerData="5000" selectedElement="_ajTvTOs5Eeyt_6cL2qJA5g" horizontal="true">
                   <children xsi:type="advanced:Placeholder" xmi:id="_ajTvTOs5Eeyt_6cL2qJA5g" elementId="org.eclipse.ui.editorss" containerData="5547" ref="_aivHgOs5Eeyt_6cL2qJA5g"/>
-                  <children xsi:type="basic:PartStack" xmi:id="_CMccoes6Eeyt_6cL2qJA5g" elementId="PartStack@52bf434b" containerData="4453" selectedElement="_ajTvV-s5Eeyt_6cL2qJA5g">
-                    <children xsi:type="advanced:Placeholder" xmi:id="_ajTvV-s5Eeyt_6cL2qJA5g" elementId="org.eclipse.ui.console.ConsoleView" ref="_ajFFwus5Eeyt_6cL2qJA5g" closeable="true">
+                  <children xsi:type="basic:PartStack" xmi:id="_CMccoes6Eeyt_6cL2qJA5g" elementId="PartStack@52bf434b" toBeRendered="false" containerData="4453">
+                    <children xsi:type="advanced:Placeholder" xmi:id="_ajTvV-s5Eeyt_6cL2qJA5g" elementId="org.eclipse.ui.console.ConsoleView" toBeRendered="false" ref="_ajFFwus5Eeyt_6cL2qJA5g" closeable="true">
                       <tags>View</tags>
                       <tags>categoryTag:General</tags>
                     </children>
@@ -442,7 +442,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_JmeL4O50Eeyj64LnipIeJA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Rps.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Rps.java&quot; partName=&quot;Rps.java&quot; title=&quot;Rps.java&quot; tooltip=&quot;5/src/Rps.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/5/src/Rps.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1094&quot; selectionTopPixel=&quot;359&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Rps.java&quot; partName=&quot;Rps.java&quot; title=&quot;Rps.java&quot; tooltip=&quot;5/src/Rps.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/5/src/Rps.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;833&quot; selectionTopPixel=&quot;359&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -710,7 +710,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_aWc_AOs5Eeyt_6cL2qJA5g" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Sux28PFjEeyKZIZBJya_0w" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ZzUczus5Eeyt_6cL2qJA5g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Rav3ECAlEe2fOakMStEoyA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ZzUczus5Eeyt_6cL2qJA5g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_aWlh4Os5Eeyt_6cL2qJA5g" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -741,7 +741,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_aWn-IOs5Eeyt_6cL2qJA5g" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Su06QPFjEeyKZIZBJya_0w" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ZzTOr-s5Eeyt_6cL2qJA5g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Ra2kwCAlEe2fOakMStEoyA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ZzTOr-s5Eeyt_6cL2qJA5g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_aWn-Ies5Eeyt_6cL2qJA5g" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1153,6 +1153,15 @@
     <bindings xmi:id="_Z0hWpes5Eeyt_6cL2qJA5g" keySequence="ALT+BS" command="_ZzDXEOs5Eeyt_6cL2qJA5g">
       <tags>platform:cocoa</tags>
     </bindings>
+    <bindings xmi:id="_RAqjICAlEe2fOakMStEoyA" keySequence="COMMAND+CTRL+/" command="_Q_5uISAlEe2fOakMStEoyA">
+      <tags>platform:cocoa</tags>
+    </bindings>
+    <bindings xmi:id="_RAsYUCAlEe2fOakMStEoyA" keySequence="COMMAND+CTRL+\" command="_Q_5HFiAlEe2fOakMStEoyA">
+      <tags>platform:cocoa</tags>
+    </bindings>
+    <bindings xmi:id="_RA3-gCAlEe2fOakMStEoyA" keySequence="COMMAND+SHIFT+\" command="_Q_5HFiAlEe2fOakMStEoyA"/>
+    <bindings xmi:id="_RA5zsCAlEe2fOakMStEoyA" keySequence="COMMAND+SHIFT+C" command="_Q_5HEiAlEe2fOakMStEoyA"/>
+    <bindings xmi:id="_RA7o4CAlEe2fOakMStEoyA" keySequence="COMMAND+SHIFT+/" command="_Q_5uISAlEe2fOakMStEoyA"/>
   </bindingTables>
   <bindingTables xmi:id="_Z0IVF-s5Eeyt_6cL2qJA5g" elementId="org.eclipse.jdt.ui.javaEditorScope" bindingContext="_ZzjtYes5Eeyt_6cL2qJA5g">
     <bindings xmi:id="_Z0IVGOs5Eeyt_6cL2qJA5g" keySequence="COMMAND+CTRL+/" command="_Zzbxgus5Eeyt_6cL2qJA5g">
@@ -1318,7 +1327,7 @@
     <bindings xmi:id="_Z0h9tOs5Eeyt_6cL2qJA5g" keySequence="ALT+CR" command="_ZzDXB-s5Eeyt_6cL2qJA5g"/>
   </bindingTables>
   <bindingTables xmi:id="_Z3OsZ-s5Eeyt_6cL2qJA5g" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_Zyad3es5Eeyt_6cL2qJA5g">
-    <bindings xmi:id="_SY2DMPFjEeyKZIZBJya_0w" keySequence="M1+W" command="_Z3OsZes5Eeyt_6cL2qJA5g"/>
+    <bindings xmi:id="_REGRoCAlEe2fOakMStEoyA" keySequence="M1+W" command="_Z3OsZes5Eeyt_6cL2qJA5g"/>
   </bindingTables>
   <bindingTables xmi:id="_ai11MOs5Eeyt_6cL2qJA5g" bindingContext="_ai0AAOs5Eeyt_6cL2qJA5g"/>
   <bindingTables xmi:id="_ai44ges5Eeyt_6cL2qJA5g" bindingContext="_ai44gOs5Eeyt_6cL2qJA5g"/>
@@ -2647,6 +2656,17 @@
   <commands xmi:id="_aSMxI-s5Eeyt_6cL2qJA5g" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Execute" commandName="Execute" description="Execute the Selected Text" category="_Zy_sqes5Eeyt_6cL2qJA5g"/>
   <commands xmi:id="_aSMxJOs5Eeyt_6cL2qJA5g" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Display" commandName="Display" description="Display Result of Evaluating Selected Text" category="_Zy_sqes5Eeyt_6cL2qJA5g"/>
   <commands xmi:id="_aSMxJes5Eeyt_6cL2qJA5g" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Inspect" commandName="Inspect" description="Inspect Result of Evaluating Selected Text" category="_Zy_sqes5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5HECAlEe2fOakMStEoyA" elementId="org.eclipse.egit.ui.FetchGitLabMergeRequest" commandName="Fetch GitLab Merge Request" category="_Zy_so-s5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5HESAlEe2fOakMStEoyA" elementId="org.eclipse.ui.edit.text.select.stopMultiSelection" commandName="End multi-selection" description="Unselects all multi-selections returning to a single cursor " category="_Zy_Flus5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5HEiAlEe2fOakMStEoyA" elementId="org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand" commandName="Toggle Line Comment" category="_Q_3R4CAlEe2fOakMStEoyA"/>
+  <commands xmi:id="_Q_5HEyAlEe2fOakMStEoyA" elementId="org.eclipse.ui.edit.text.select.multiCaretDown" commandName="Multi caret down" description="Add a new caret/multi selection below the current line, or remove the first caret/multi selection " category="_Zy_Flus5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5HFCAlEe2fOakMStEoyA" elementId="org.eclipse.ui.edit.text.select.addAllMatchesToMultiSelection" commandName="Add all matches to multi-selection" description="Looks for all regions matching the current selection or identifier and adds them to a multi-selection " category="_Zy_Flus5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5HFSAlEe2fOakMStEoyA" elementId="org.eclipse.egit.ui.FetchGitHubPR" commandName="Fetch GitHub Pull Request" category="_Zy_so-s5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5HFiAlEe2fOakMStEoyA" elementId="org.eclipse.tm4e.languageconfiguration.removeblockcommentcommand" commandName="Remove Block Comment" category="_Q_3R4CAlEe2fOakMStEoyA"/>
+  <commands xmi:id="_Q_5uICAlEe2fOakMStEoyA" elementId="org.eclipse.ui.edit.text.select.selectMultiSelectionDown" commandName="Multi selection down relative to anchor selection  " description="Search next matching region and add it to the current selection, or remove first element from current multi-selection " category="_Zy_Flus5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5uISAlEe2fOakMStEoyA" elementId="org.eclipse.tm4e.languageconfiguration.addblockcommentcommand" commandName="Add Block Comment" category="_Q_3R4CAlEe2fOakMStEoyA"/>
+  <commands xmi:id="_Q_5uIiAlEe2fOakMStEoyA" elementId="org.eclipse.ui.edit.text.select.selectMultiSelectionUp" commandName="Multi selection up relative to anchor selection" description="Search next matching region above and add it to the current selection, or remove last element from current multi-selection " category="_Zy_Flus5Eeyt_6cL2qJA5g"/>
+  <commands xmi:id="_Q_5uIyAlEe2fOakMStEoyA" elementId="org.eclipse.ui.edit.text.select.multiCaretUp" commandName="Multi caret up" description="Add a new caret/multi selection above the current line, or remove the last caret/multi selection " category="_Zy_Flus5Eeyt_6cL2qJA5g"/>
   <addons xmi:id="_Zyad3us5Eeyt_6cL2qJA5g" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_Zyad3-s5Eeyt_6cL2qJA5g" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_Zyad4Os5Eeyt_6cL2qJA5g" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
@@ -2658,7 +2678,7 @@
   <addons xmi:id="_Zyad5us5Eeyt_6cL2qJA5g" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_Zyad5-s5Eeyt_6cL2qJA5g" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_Zylc8Os5Eeyt_6cL2qJA5g" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_RDhp4CAlEe2fOakMStEoyA" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <addons xmi:id="_Z3M3MOs5Eeyt_6cL2qJA5g" elementId="org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler"/>
   <categories xmi:id="_Zy-egOs5Eeyt_6cL2qJA5g" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
@@ -2692,4 +2712,5 @@
   <categories xmi:id="_Zy_sp-s5Eeyt_6cL2qJA5g" elementId="org.eclipse.jdt.ui.category.source" name="Source" description="Java Source Actions"/>
   <categories xmi:id="_Zy_sqOs5Eeyt_6cL2qJA5g" elementId="org.eclipse.oomph.commands" name="Oomph"/>
   <categories xmi:id="_Zy_sqes5Eeyt_6cL2qJA5g" elementId="org.eclipse.core.commands.categories.autogenerated" name="Uncategorized" description="Commands that were either auto-generated or have no category"/>
+  <categories xmi:id="_Q_3R4CAlEe2fOakMStEoyA" elementId="org.eclipse.tm4e.languageconfiguration.category" name="TM4E Language Configuration"/>
 </application:Application>
