@@ -24,3 +24,9 @@
 
 Makefile
 Makefile.in
+
+**/Makefile
+
+node_modules/
+
+target/
