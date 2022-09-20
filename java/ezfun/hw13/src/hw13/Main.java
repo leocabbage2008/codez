@@ -30,7 +30,16 @@ class Main extends JPanel implements ActionListener, MouseListener{
 		  show[i]=true;
 	  }
   }
-  
+  static long addCubesOfDigits(int number) {
+	    long result = 0;
+	    int tmp = 0;
+	    while(number > 0) {
+	        tmp = number % 10;
+	        result += tmp * tmp * tmp;
+	        number /= 10;
+	    }
+	    return result;
+	}
   public static void main(String[] args) {
     Main m = new Main();
     JFrame j = new JFrame();
@@ -38,7 +47,10 @@ class Main extends JPanel implements ActionListener, MouseListener{
     j.setSize(600, 600);
     j.add(m);
     j.setVisible(true);
-    j.addMouseListener(m);
+    j.addMouseListener(m); 
+    for(int i = 1; i <= 10000; ++i) {
+	    if(addCubesOfDigits(i)==((long)i)) System.out.println(i);
+    }
     
   }
   
