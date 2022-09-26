@@ -1,0 +1,3 @@
+/Users/coder/codez/usaco/2020/january/bronze/1/cmake-build-debug/CMakeFiles/1.dir
+/Users/coder/codez/usaco/2020/january/bronze/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coder/codez/usaco/2020/january/bronze/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

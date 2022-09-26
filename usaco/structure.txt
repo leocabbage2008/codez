@@ -1,0 +1,4 @@
+year->month/open->level->problem number
+
+ex:
+1999->open->bronze->1
