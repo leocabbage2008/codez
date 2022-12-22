@@ -1,0 +1,3 @@
+/Users/coder/codez/usaco/xcamp/ones_digit_of_an_integer/cmake-build-debug/CMakeFiles/ones_digit_of_an_integer.dir
+/Users/coder/codez/usaco/xcamp/ones_digit_of_an_integer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coder/codez/usaco/xcamp/ones_digit_of_an_integer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

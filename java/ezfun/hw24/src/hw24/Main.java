@@ -9,6 +9,7 @@ import java.util.TimerTask;
 public class Main extends JFrame {
 	JLabel timeLabel;
 	long startTime;
+	long time;
 	Timer t;
 
 	public Main() {
@@ -35,18 +36,22 @@ public class Main extends JFrame {
 				if (condition) {
 					startTime = e.getWhen();
 				} else
-					startTime = Integer.parseInt(timeLabel.getText());
+					startTime = time;
 				t = new Timer();
 				startButton.setEnabled(false);
 				stopButton.setEnabled(true);
 				t.schedule(new TimerTask() {
 					public void run() {
 						if (condition) {
+							timeLabel.setText(time / 60000 + " minutes: " + time / 1000 + " seconds: " + time % 1000
+									+ " milliseconds");
 							long currentTime = System.currentTimeMillis();
-							timeLabel.setText((currentTime - startTime) + "");
+							time = ((currentTime - startTime));
 						} else {
-							timeLabel.setText(startTime + "");
-							startTime++;
+							timeLabel.setText(time / 60000 + " minutes: " + time / 1000 + " seconds: " + time % 1000
+									+ " milliseconds");
+							time = startTime;
+							startTime += 10;
 						}
 					}
 				}, 0, 10);
@@ -75,6 +80,7 @@ public class Main extends JFrame {
 
 	public static void main(String[] args) {
 		new Main();
+		//(B)
 	}
 
 }
