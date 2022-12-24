@@ -1,0 +1,3 @@
+/Users/coder/codez/usaco/xcamp/floor_tiles/cmake-build-debug/CMakeFiles/floor_tiles.dir
+/Users/coder/codez/usaco/xcamp/floor_tiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coder/codez/usaco/xcamp/floor_tiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

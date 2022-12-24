@@ -1,6 +1,9 @@
 #include <iostream>
+#include <cmath>
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    int n;
+    cin >> n;
+    cout << pow(2,n)-1;
 }
