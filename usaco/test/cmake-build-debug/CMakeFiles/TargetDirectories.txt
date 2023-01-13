@@ -1,3 +1,0 @@
-/Users/coder/codez/usaco/test/cmake-build-debug/CMakeFiles/test.dir
-/Users/coder/codez/usaco/test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/coder/codez/usaco/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/Users/coder/codez/usaco/alphastar/1/4/cmake-build-debug/CMakeFiles/4.dir
-/Users/coder/codez/usaco/alphastar/1/4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/coder/codez/usaco/alphastar/1/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

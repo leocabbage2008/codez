@@ -30,3 +30,5 @@ Makefile.in
 node_modules/
 
 target/
+
+cmake-build-debug/

@@ -1,3 +1,0 @@
-/Users/coder/codez/usaco/cses/1070/cmake-build-debug/CMakeFiles/1070.dir
-/Users/coder/codez/usaco/cses/1070/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/coder/codez/usaco/cses/1070/cmake-build-debug/CMakeFiles/rebuild_cache.dir

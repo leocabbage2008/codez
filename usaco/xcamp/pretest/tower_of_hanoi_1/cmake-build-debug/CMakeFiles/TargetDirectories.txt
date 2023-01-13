@@ -1,3 +1,0 @@
-/Users/coder/codez/usaco/xcamp/tower_of_hanoi_1/cmake-build-debug/CMakeFiles/tower_of_hanoi_1.dir
-/Users/coder/codez/usaco/xcamp/tower_of_hanoi_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/coder/codez/usaco/xcamp/tower_of_hanoi_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

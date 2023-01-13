@@ -1,3 +1,0 @@
-/Users/coder/codez/usaco/xcamp/nth_number/cmake-build-debug/CMakeFiles/nth_number.dir
-/Users/coder/codez/usaco/xcamp/nth_number/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/coder/codez/usaco/xcamp/nth_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
