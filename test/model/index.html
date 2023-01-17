@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="&lt;model-viewer&gt; template">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    model-viewer {
+      width: 100vw;
+      height: 100vh;
+      /* background-color: black; */
+    }
+  </style>
+</head>
+
+<body>
+  <!-- <model-viewer> HTML element -->
+  <model-viewer src="scene.glb" shadow-intensity=2 auto-rotate touch-action="pan-y" min-camera-orbit="auto 0deg auto"
+    exposure='2' max-camera-orbit="auto 84deg auto">
+
+  </model-viewer>
+  <!-- Loads <model-viewer> for browsers: -->
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+</body>
+
+</html>
