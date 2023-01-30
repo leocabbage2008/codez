@@ -1,0 +1,157 @@
+Location,Weather,Date
+"Afghanistan, Kabul",invalid,invalid
+"Algeria, Algiers",Rain,2023-01-29
+"Angola, Luanda",invalid,invalid
+"Antigua and Barbuda, St. John's Antigua",invalid,invalid
+"Argentina, Buenos Aires",Mist,2023-01-28
+"Armenia, Yerevan",Light Rain,2023-01-29
+"Australia, Canberra",Rain,2023-01-29
+"Austria, Vienna",Fair,2023-01-29
+"Azerbaijan, Baku",No Rain,2023-01-28
+"Bahamas, Nassau",Cloudy,2023-01-28
+"Bahrain, Bahrain/Manama",Cool,2023-01-28
+"Bangladesh, Dhaka",invalid,invalid
+"Belarus, Minsk",Snow,2023-01-29
+"Belgium, Brussels",Overcast,2023-01-28
+"Belize, Belmopan City",Isolated Showers,2023-01-28
+"Benin, Porto-Novo",invalid,invalid
+"Bosnia and Herzegovina, Sarajevo",Mostly Cloudy,2023-01-29
+"Botswana, Gaborone",Partly Cloudy,2023-01-28
+"Brazil, Brasilia",Thunderstorms,2023-01-28
+"Brunei Darussalam, Bandar Seri Begawan",Thundershowers,2023-01-29
+"Bulgaria, Sofia",Cloudy,2023-01-29
+"Burkina Faso, Ouagadougou Aero",invalid,invalid
+"Burundi, Bujumbura",invalid,invalid
+"Cambodia, Phnom Penh - Pochentong",invalid,invalid
+"Cameroon, Yaounde",Partly Cloudy,2023-01-28
+"Canada, Ottawa, Ontario",Light Snow,2023-01-28
+"Chad, Ndjamena",invalid,invalid
+"Chile, Santiago",Sunny,2023-01-28
+"China, Beijing",Clear,2023-01-29
+"Colombia, Bogota",invalid,invalid
+"Comoros, Moroni",invalid,invalid
+"Costa Rica, San Jose",Windy,2023-01-29
+"Croatia, Zagreb",Sunny Intervals,2023-01-29
+"Cuba, Havana",Scattered Showers,2023-01-28
+"Cyprus, Nicosia",Thunderstorms,2023-01-29
+"Czechia, Prague",Cloudy,2023-01-28
+"Denmark, Copenhagen",Cloudy,2023-01-28
+"Djibouti, Djibouti",invalid,invalid
+"Dominican Republic, Santo Domingo",Cloudy,2023-01-29
+"Democratic People's Republic of Korea, Pyongyang",Light Snow,2023-01-29
+"Ecuador, Quito",Sunny,2023-01-28
+"Egypt, Cairo",invalid,invalid
+"El Salvador, San Salvador",Partly Cloudy,2023-01-28
+"Eritrea, Asmara",invalid,invalid
+"Estonia, Tallinn",Overcast,2023-01-29
+"Eswatini, Mbabane",invalid,invalid
+"Ethiopia, Addis Ababa",Sunny,2023-01-28
+"Fiji, Suva",Thunderstorms,2023-01-29
+"Finland, Helsinki-Vantaa",Partly Cloudy,2023-01-29
+"France, Paris",Overcast,2023-01-28
+"Gabon, Libreville",invalid,invalid
+"Gambia (The), Banjul",invalid,invalid
+"Georgia, Tbilisi",invalid,invalid
+"Germany, Berlin",Light Rain,2023-01-29
+"Ghana, Accra",Sunny Periods,2023-01-28
+"Greece, Athens",Showers,2023-01-28
+"Guatemala, Guatemala City",invalid,invalid
+"Guinea, Conakry",invalid,invalid
+"Guinea-Bissau, Bissau",invalid,invalid
+"Guyana, Georgetown",Fair,2023-01-28
+"Haiti, Port-au-Prince",invalid,invalid
+"Honduras, Tegucigalpa",invalid,invalid
+"Hungary, Budapest",Partly Cloudy,2023-01-29
+"Iceland, Reykjavik",invalid,invalid
+"India, New Delhi (SFD)",Light Rain,2023-01-29
+"Indonesia, Jakarta",Rain,2023-01-29
+"Iran (Islamic Republic of), Tehran",invalid,invalid
+"Iraq, Baghdad",invalid,invalid
+"Ireland, Dublin",Drizzle,2023-01-28
+"Israel, Jerusalem",Cloudy,2023-01-29
+"Italy, Rome (ROMA)",Rain,2023-01-28
+"Jamaica, Kingston",invalid,invalid
+"Japan, Tokyo",Fine,2023-01-29
+"Jordan, Amman",invalid,invalid
+"Kazakhstan, Astana",Partly Cloudy,2023-01-29
+"Kenya, Nairobi",Sunny Intervals,2023-01-29
+"Kuwait, Kuwait City",Sunny,2023-01-28
+"Kyrgyzstan, Bishkek",Fine,2023-01-29
+"Lao People's Democratic Republic, Vientiane",Mist,2023-01-29
+"Latvia, Riga",Cloudy,2023-01-29
+"Lebanon, Beirut",invalid,invalid
+"Lesotho, Maseru",invalid,invalid
+"Libya (State of), Tripoli",Sunny,2023-01-28
+"Lithuania, Vilnius",Light Snow,2023-01-29
+"Luxembourg, Luxembourg",Sleet,2023-01-28
+"Madagascar, Antananarivo",Partly Cloudy,2023-01-29
+"Malaysia, Kuala Lumpur",Thunderstorms,2023-01-29
+"Maldives, Male'",Isolated Showers,2023-01-29
+"Mali, Bamako",Sunny,2023-01-29
+"Mauritius, Port Louis",Partly Cloudy,2023-01-29
+"Mexico, Ciudad de Mexico",invalid,invalid
+"Republic of Moldova, Chisinau",Snow,2023-01-28
+"Mongolia, Ulaanbaatar",Sunny,2023-01-29
+"Montenegro, Podgorica",invalid,invalid
+"Mozambique, Maputo",invalid,invalid
+"Myanmar, Yangon",Partly Cloudy,2023-01-29
+"Namibia, Windhoek",invalid,invalid
+"Nepal, Kathmandu",Fair,2023-01-29
+"Netherlands, Amsterdam (Schiphol)",Light Rain,2023-01-29
+"New Caledonia, Noumea",Partly Bright,2023-01-29
+"New Zealand, Wellington",Showers,2023-01-29
+"Niger, Niamey",invalid,invalid
+"Nigeria, Abuja",Partly Cloudy,2023-01-29
+"North Macedonia, Skopje",Cloudy,2023-01-28
+"Norway, Oslo",Cloudy,2023-01-28
+"Oman, Muscat (Seeb)",invalid,invalid
+"Pakistan, Islamabad",Cold,2023-01-28
+"Panama, Panama City",Partly Cloudy,2023-01-28
+"Papua New Guinea, Port Moresby",invalid,invalid
+"Paraguay, Asuncion",Mostly Cloudy,2023-01-28
+"Peru, Lima",invalid,invalid
+"Philippines, Metro Manila",invalid,invalid
+"Poland, Warsaw",Fine,2023-01-29
+"Portugal, Lisboa",Clear,2023-01-28
+"Qatar, Doha",Fine,2023-01-28
+"Republic of Korea, Seoul",Clear,2023-01-29
+"Romania, Bucharest",Snow,2023-01-29
+"Russian Federation, Moscow",Snow,2023-01-29
+"Rwanda, Kigali",Rain,2023-01-29
+"Saint Lucia, Castries",Isolated Showers,2023-01-28
+"Samoa, Apia",invalid,invalid
+"Saudi Arabia, Riyadh",invalid,invalid
+"Senegal, Dakar",Sunny Intervals,2023-01-28
+"Serbia, Belgrade",Cloudy,2023-01-29
+"Seychelles, Victoria",invalid,invalid
+"Sierra Leone, Freetown",invalid,invalid
+"Singapore, Singapore",Rain,2023-01-29
+"Slovakia, Bratislava",invalid,invalid
+"Slovenia, Ljubljana",Cloudy,2023-01-28
+"Somalia, Mogadishu",invalid,invalid
+"Spain, Madrid",Sunny,2023-01-28
+"Sri Lanka, Colombo",Fair,2023-01-29
+"Sudan, Khartoum",invalid,invalid
+"Suriname, Paramaribo",Partly Cloudy,2023-01-28
+"Sweden, Stockholm",Overcast,2023-01-29
+"Syrian Arab Republic, Damascus",invalid,invalid
+"Tajikistan, Dushanbe",invalid,invalid
+"United Republic of Tanzania, Dodoma",Partly Cloudy,2023-01-29
+"Thailand, Bangkok",Windy,2023-01-29
+"Togo, Lome",invalid,invalid
+"Trinidad and Tobago, Port of Spain (Trinidad)",Isolated Showers,2023-01-28
+"Tunisia, Tunis-Carthage",invalid,invalid
+"Türkiye, Ankara",Sleet,2023-01-29
+"Turkmenistan, Ashgabat",invalid,invalid
+"Uganda, Kampala",Light Showers,2023-01-29
+"Ukraine, Kyiv",No Rain,2023-01-29
+"United Arab Emirates, Abu Dhabi",Partly Cloudy,2023-01-28
+"United Kingdom of Great Britain and Northern Ireland, London",Cloudy,2023-01-28
+"United States of America, Washington DC",Cloudy,2023-01-28
+"Uruguay, Montevideo",invalid,invalid
+"Uzbekistan, Tashkent",Partly Cloudy,2023-01-29
+"Vanuatu, Port Vila",Thunderstorms,2023-01-29
+"Venezuela, Bolivarian Republic of, Caracas",invalid,invalid
+"Viet Nam, Hanoi",Partly Cloudy,2023-01-29
+"Zambia, Lusaka",Rain,2023-01-28
+"Zimbabwe, Harare",invalid,invalid
