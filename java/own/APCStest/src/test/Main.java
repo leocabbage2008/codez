@@ -1,23 +1,34 @@
 package test;
 
 import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.List;
 
 class Main {
-	public static int gcf(int a, int b) {
-		while (a != 0 && b != 0) {
-			int temp = a;
-			System.out.println(a + " " + b + " " + temp);
-
-			a = b % a;
-			b = temp;
+	public static ArrayList<ArrayList<String>> m(List<String> words) {
+		ArrayList<ArrayList<String>> buckets = new ArrayList<ArrayList<String>>();
+		for(int i = 0; i < 26; ++i) {
+			buckets.add(new ArrayList<String>());
 		}
-		return b;
+		for(int i = 0; i < words.size(); ++i) {
+			buckets.get(words.get(i).charAt(0)-97).add(words.get(i));
+		}
+		return buckets;
 	}
 
 	public static void main(String[] args) {
-		double[] d = { 2, -3, 4, 0.5 };
-		Polynomial p = new Polynomial(d);
-		System.out.println("The degree of " + p + " is " + p.degree());
-		System.out.println("p(-2.5) = " + p.getValue(-2.5));
+		ArrayList<String> words = new ArrayList<String>();
+		words.add("ant");
+		words.add("act");
+		words.add("art");
+		words.add("bad");
+		words.add("bed");
+		words.add("bad");
+		words.add("cat");
+		words.add("can");
+		words.add("cot");
+		words.add("dog");
+		words.add("dig");
+		System.out.println(m(words));
 	}
 }

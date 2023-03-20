@@ -1,0 +1,11 @@
+.directions {
+  margin-top: 16px;
+  list-style-type: none;
+}
+
+.num-circle {
+  height: 24px;
+  margin-right: 0.75rem;
+  background-color: var(--mustard);
+  color: var(--red);
+}

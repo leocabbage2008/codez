@@ -1,0 +1,57 @@
+input:focus {
+  outline: none;
+}
+
+span {
+  font-size: 30px;
+  color: white;
+}
+
+form {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.body {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  margin-top: 100px;
+}
+
+.header {
+  font-size: 10rem;
+}
+
+.buttonAsText {
+  background: none !important;
+  border: none;
+  font-family: arial, sans-serif;
+  cursor: pointer;
+  color: inherit;
+  font-size: inherit;
+}
+
+.code {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  column-gap: 5vw;
+}
+
+.form {
+  max-width: 300px;
+}
